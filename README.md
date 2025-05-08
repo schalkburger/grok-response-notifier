@@ -10,9 +10,9 @@ A UserScript that shows a notification when Grok finished generating a response
    - [Greasemonkey](https://www.greasespot.net/) (Firefox)
    - [Tampermonkey](https://www.tampermonkey.net/)
 
-2. **[Click to install the script](https://github.com/schalkburger/deepseek-response-notifier/raw/refs/heads/main/deepseekalert.user.js)**
+2. **[Click to install the script](https://github.com/schalkburger/grok-response-notifier/raw/refs/heads/main/grokalert.user.js)**
    _(or copy/paste the script manually)_
 
    ```
-   https://github.com/schalkburger/deepseek-response-notifier/raw/refs/heads/main/deepseekalert.user.js
+   https://github.com/schalkburger/grok-response-notifier/raw/refs/heads/main/grokalert.user.js
    ```
